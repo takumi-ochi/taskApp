@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Python: taskApp",
+          "type": "debugpy",
+          "request": "launch",
+          "program": "C:\\Cochi\\python\\タスク管理\\src\\main.py",
+          "console": "integratedTerminal"
+      }
+  ]
+}
